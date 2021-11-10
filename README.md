@@ -23,13 +23,6 @@ This will monitor the persons online activity.
 Once the person comes Online will post you in telegram chat bot provided with session period.
 
 Sample Output:
-==========================
-Came Online
-Session Time : 1 m
-Went Online
-==========================
-==========================
-Came Online
-Session Time : 7 s
-Went Online
-==========================
+
+![image](https://user-images.githubusercontent.com/59251885/141067161-ca1d09d7-d4bd-40b7-a861-634aaba389e4.png)
+
