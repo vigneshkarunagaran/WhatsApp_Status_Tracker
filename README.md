@@ -1,10 +1,12 @@
+Warning!!
 This Repo is Purly educational purpose
-Dont use this to stalk on others, which is subjective to crime
+Don't use this to stalk on others, which is subjective to crime
 
-PreReq:
-Python Installed
-Chrome or any similar browser
-Webdriver
+Pre-Req:
+1. Telegram bot of your own with token and Chat ID
+2. Python Installed
+3. Chrome or any similar browser
+4. Webdriver
 
 Libraries:
 Selenium
@@ -18,4 +20,16 @@ Steps:
 5. Once Done press Enter
 
 This will monitor the persons online activity.
-Once the person comes Online will post you in telegram chat bot provided
+Once the person comes Online will post you in telegram chat bot provided with session period.
+
+Sample Output:
+==========================
+Came Online
+Session Time : 1 m
+Went Online
+==========================
+==========================
+Came Online
+Session Time : 7 s
+Went Online
+==========================
