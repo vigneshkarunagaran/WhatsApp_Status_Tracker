@@ -14,15 +14,17 @@ Requests
 
 Steps:
 1. Run the tracker.py script
-2. You will be launched with WhatsApp web
-3. Scan Your QR code
-4. Open person's chat that you want to track
-5. Once Done press Enter
+2. You will be launched with WhatsApp web as below
+![image](https://user-images.githubusercontent.com/59251885/141100342-05a52ad5-bdd5-43e5-a5c4-a2cf08e41d85.png)
+4. Scan Your QR code
+5. Open person's chat that you want to track
+![Screenshot 2021-11-10 162837](https://user-images.githubusercontent.com/59251885/141101486-dc5fc6a5-759c-47b9-9dc0-d2510b3c3804.jpg)
+6. Once Done press Enter
 
 This will monitor the persons online activity.
 Once the person comes Online will post you in telegram chat bot provided with session period.
 
 Sample Output:
+![Screenshot 2021-11-10 163646](https://user-images.githubusercontent.com/59251885/141102701-10211881-3842-42dd-8c7a-da8ebf181783.jpg)
 
-![image](https://user-images.githubusercontent.com/59251885/141067161-ca1d09d7-d4bd-40b7-a861-634aaba389e4.png)
 
