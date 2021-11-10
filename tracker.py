@@ -54,7 +54,7 @@ while(True):
         time_2 = time.time()
         time_interval = time_2 - time_1
         alert_telegram('Session Time : '+ calculate_time(int(time_interval)))
-        alert_telegram('Went Online')
+        alert_telegram('Went Offline')
         alert_telegram('==========================')
         status = 'off'
         
