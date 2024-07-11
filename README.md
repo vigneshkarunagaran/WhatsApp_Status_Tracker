@@ -1,3 +1,5 @@
+Triggers Telegram API-based notifications when a target phone number comes online. Also monitors the session time
+
 Warning!!
 This Repo is Purly educational purpose
 Don't use this to stalk on others, which is subjective to crime
